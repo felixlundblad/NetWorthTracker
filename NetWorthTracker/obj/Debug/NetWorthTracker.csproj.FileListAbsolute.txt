@@ -1,0 +1,12 @@
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\bin\Debug\NetWorthTracker.exe.config
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\bin\Debug\NetWorthTracker.exe
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\bin\Debug\NetWorthTracker.pdb
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.csprojAssemblyReference.cache
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.Properties.Resources.resources
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.csproj.GenerateResource.cache
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.csproj.CoreCompileInputs.cache
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.exe
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.pdb
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.FormAddDatapoint.resources
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.FormMain.resources
+C:\Users\Dator1\source\repos\NetWorthTracker\NetWorthTracker\obj\Debug\NetWorthTracker.FormAddAccount.resources
